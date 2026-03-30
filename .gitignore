@@ -1,2 +1,4 @@
 *.pdf
 .env
+sliced_questions/
+__pycache__/

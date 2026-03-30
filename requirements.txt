@@ -1,0 +1,7 @@
+# Core dependencies
+openai>=1.0.0
+python-dotenv>=1.0.0
+pdf2image>=1.16.0
+
+# System dependencies (need to be installed separately)
+# poppler-utils (Linux) or poppler (Windows) - required by pdf2image
